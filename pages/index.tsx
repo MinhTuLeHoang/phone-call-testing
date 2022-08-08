@@ -17,6 +17,10 @@ const Home: NextPage = () => {
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
 
+        <a href='tel:+84915882863' >Call +84915882863</a>
+        <a href='tel:+840915882863' >Call +840915882863</a>
+        <a href='tel:0915882863' >Call 0915882863</a>
+
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.tsx</code>
