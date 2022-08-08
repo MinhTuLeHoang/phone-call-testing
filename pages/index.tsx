@@ -21,6 +21,10 @@ const Home: NextPage = () => {
         <a href='tel:+840915882863' >Call +840915882863</a>
         <a href='tel:0915882863' >Call 0915882863</a>
 
+        <br/>
+
+        <a href='tel:+84 091 588 2863' >Call +84 091 588 2863</a>
+
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.tsx</code>
